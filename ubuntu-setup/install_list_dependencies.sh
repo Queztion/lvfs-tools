@@ -1,0 +1,3 @@
+#! /bin/bash
+
+xargs -a list.txt sudo apt-get install
