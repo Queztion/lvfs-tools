@@ -1,3 +1,3 @@
 #! /bin/bash
 
-git clone https://gitlab.freedesktop.org/mobile-broadband/ModemManager.git
+git clone https://github.com/fwupd/fwupd.git
